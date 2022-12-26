@@ -1,3 +1,3 @@
 # POS Goldylocks
 
-[https://www.goldylocks.pt](www.goldylocks.pt)
+[https://www.goldylocks.pt](https://www.goldylocks.pt)

@@ -17,7 +17,6 @@ Goldylocks POS is a modern, cross-platform point-of-sale frontend that connects 
 ## Features
 
 - **Cross-platform** — works on desktop, mobile, and web
-- **Inventory management** — real-time stock tracking and search
 - **Receipt printing** — thermal printer support via Bluetooth and network
 - **Barcode scanning** — fast item lookup with fuzzy search fallback
 - **Offline-ready** — local database with automatic synchronization
